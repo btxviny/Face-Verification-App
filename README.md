@@ -13,7 +13,7 @@ This project can be used to verify a number of faces, by simply providing the re
      ```bash
      python get_embeddings.py --images_path ./path_to images_folder --save_path ./path_to_resulting_embedding_file
      ```
-- Use the format 'FirstName_LastName.py' 
+- Use the format 'FirstName_LastName.npy' 
 ## 2. Place the embedding inside the 'embeddings' folder.
 
 ## 3. I provide the inference_mtcnn.ipynb notebook for inference.
